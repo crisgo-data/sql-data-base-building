@@ -1,0 +1,26 @@
+------Esta consulta selecciona el id de los actores y mediante COUNT, cuenta el número de películas que han participado 
+en la categoría "Comedy". Se unen las tablas "actor" y "film" en base a la tabla "disco_duro" mediante JOIN.
+ y luego se une la tabla "category" en base a la columna "category_id". también con JOIN
+La cláusula WHERE filtra las películas que son solo de la categoría "Comedy". 
+La cláusula GROUP BY agrupa los resultados por actor_id
+y la cláusula ORDER BY ordena los resultados 
+en orden descendente en función del número de películas.
+
+
+
+SELECT actor.actor_id as actor_id, count(film.film_id) as film_count 
+FROM actor 
+JOIN disco_duro ON actor.actor_id = disco_duro.actor_id 
+JOIN film ON disco_duro.film_id = film.film_id 
+JOIN category ON film.category_id = category.category_id 
+WHERE category.name = 'Comedy' 
+GROUP BY actor.actor_id
+ORDER BY film_count DESC 
+LIMIT 1000;
+
+
+------ para ver el nombre del actor al que se refiere cada id simplemente tiramos la query:
+
+SELECT *
+FROM actor
+WHERE actor_id = 34;

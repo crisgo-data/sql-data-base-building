@@ -1,0 +1,25 @@
+Quiero saber los dos primeros actores que han hecho peliculas en Inglés
+
+----Esta consulta selecciona el id de los actores y cuenta el número de películas que han aparecido 
+en con el idioma de "English". 
+Utilizo un JOIN para unir la tabla actor con la tabla disco_duro, 
+la tabla disco_duro con la tabla film, 
+y la tabla film con la tabla language. 
+La cláusula WHERE la utilizo para filtrar solo las películas que tienen el idioma "English". 
+La cláusula GROUP BY para agrupa los resultados por actor_id. 
+La cláusula ORDER BY ordena los resultados por el número de películas en orden descendente, 
+y la cláusula LIMIT se usa para limitar el número de resultados a 10.
+
+
+
+SELECT actor.actor_id as actor_id, count(film.film_id) as film_count 
+FROM actor 
+JOIN disco_duro ON actor.actor_id = disco_duro.actor_id 
+JOIN film ON disco_duro.film_id = film.film_id 
+JOIN language ON film.language_id = language.language_id 
+WHERE language.name = 'English' 
+GROUP BY actor.actor_id 
+ORDER BY film_count DESC 
+LIMIT 2;
+
+
