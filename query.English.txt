@@ -1,4 +1,4 @@
-Quiero saber los dos primeros actores que han hecho peliculas en Inglés
+Quiero saber los dos primeros actores que han hecho más peliculas en Inglés
 
 ----Esta consulta selecciona el id de los actores y cuenta el número de películas que han aparecido 
 en con el idioma de "English". 

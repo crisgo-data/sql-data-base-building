@@ -1,0 +1,20 @@
+--- Esta consulta hace una combinación de información de tres tablas: 
+actor, disco_duro y film, a través de los campos de join. 
+Luego, filtra los resultados por los films que tienen una categoría de "Horror".
+ Finalmente, ordena los resultados por el rental_rate de los films de manera descendente y 
+devuelve el primer registro (LIMIT 1). 
+Este primer registro será el actor_id del actor que aparece en la película de terror con el rental_rate más alto.
+
+
+
+SELECT actor.actor_id, film.title
+FROM actor
+JOIN disco_duro ON actor.actor_id = disco_duro.actor_id
+JOIN film ON disco_duro.film_id = film.film_id
+JOIN category ON film.category_id = category.category_id
+WHERE category.name = 'Horror'
+ORDER BY film.rental_rate DESC
+LIMIT 1;
+
+Sabemos que la actriz que sale en la pelicula 'Rules Human' de la 
+categoría horror que más se alquila es 'Penelope Guinness'.

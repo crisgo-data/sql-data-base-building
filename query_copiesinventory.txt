@@ -1,0 +1,10 @@
+--- Quiero saber las 5 películas de las cuales tengo más copias en mi inventario:
+--- no me deja hacer un group by sin añadir antes una función de agregación, por eso utilizo el MAX:
+
+
+SELECT MAX(film.title) as title, COUNT(inventory.inventory_id) as copies
+FROM film
+JOIN inventory ON film.film_id = inventory.film_id
+GROUP BY film.film_id
+ORDER BY copies DESC
+LIMIT 5;

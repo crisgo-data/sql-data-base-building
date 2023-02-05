@@ -1,0 +1,25 @@
+--- Quiero obtener el mayor rental_rate y que me diga el nombre de todas las películas que tienen ese rental rate:
+
+---WITH max_rental_rate AS (): esta es una cláusula WITH comúnmente conocida como una subconsulta. 
+Se utiliza para crear una tabla temporal con un nombre específico, en este caso "max_rental_rate", 
+para almacenar el resultado de la primera consulta interna.
+
+
+----JOIN max_rental_rate ON film.rental_rate = max_rental_rate.max_rental_rate: 
+la cláusula JOIN se utiliza para unir la tabla film con la tabla temporal "max_rental_rate". 
+La condición ON especifica que solo se deben incluir filas en el resultado final si el valor 
+de la columna rental_rate en la tabla film es igual al valor máximo guardado en la tabla "max_rental_rate".
+
+
+
+
+
+WITH max_rental_rate AS (
+SELECT MAX(rental_rate) as max_rental_rate
+FROM film
+)
+SELECT film.title, film.rental_rate
+FROM film
+JOIN max_rental_rate ON film.rental_rate = max_rental_rate.max_rental_rate;
+
+

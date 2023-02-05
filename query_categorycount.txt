@@ -1,0 +1,11 @@
+--- Quiero saber la cantidad de peliculas por genero que tengo:  pongo limit 16 ya que son 16 categorías las que tengo.
+
+
+
+
+SELECT category.name, COUNT(film.film_id) as film_count
+FROM film
+JOIN category ON film.category_id = category.category_id
+GROUP BY category.category_id, category.name
+ORDER BY film_count DESC
+LIMIT 16;

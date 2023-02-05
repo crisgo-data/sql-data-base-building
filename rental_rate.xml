@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">title</Data></Cell>
+			<Cell><Data ss:Type="String">rental_rate</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">ACE GOLDFINGER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ALADDIN CALENDAR</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ALADDIN CALENDAR</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ALADDIN CALENDAR</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AMERICAN CIRCUS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AMERICAN CIRCUS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">APACHE DIVINE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">APACHE DIVINE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ATTACKS HATE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ATTRACTION NEWTON</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BABY HALL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BABY HALL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BEAST HUNCHBACK</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BEHAVIOR RUNAWAY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BIKINI BORROWERS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BILKO ANONYMOUS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BIRCH ANTITRUST</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BIRCH ANTITRUST</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BIRDS PERDITION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BLINDNESS GUN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BOILED DARES</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BOILED DARES</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BOOGIE AMELIE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BORN SPINAL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BORN SPINAL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BOWFINGER GABLES</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BRANNIGAN SUNRISE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BUCKET BROTHERHOOD</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BUCKET BROTHERHOOD</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CALENDAR GUNFIGHT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CALENDAR GUNFIGHT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CALENDAR GUNFIGHT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CALENDAR GUNFIGHT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CANDLES GRAPES</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CASPER DRAGONFLY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CASUALTIES ENCINO</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CAT CONEHEADS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CENTER DINOSAUR</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CHAMBER ITALIAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CHINATOWN GLADIATOR</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CHINATOWN GLADIATOR</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CHINATOWN GLADIATOR</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CHISUM BEHAVIOR</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CLOSER BANG</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">COLDBLOODED DARLING</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">COLDBLOODED DARLING</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">COMMAND DARLING</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">COMMANDMENTS EXPRESS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">COMMANDMENTS EXPRESS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONEHEADS SMOOCHY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONEHEADS SMOOCHY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONEHEADS SMOOCHY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONEHEADS SMOOCHY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONEHEADS SMOOCHY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONFESSIONS MAGUIRE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONNECTICUT TRAMP</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONNECTICUT TRAMP</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONQUERER NUTS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONQUERER NUTS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONQUERER NUTS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONTROL ANTHEM</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CONTROL ANTHEM</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CROWDS TELEMARK</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DADDY PITTSBURGH</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DAISY MENAGERIE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DAISY MENAGERIE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DAISY MENAGERIE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DARN FORRESTER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DARN FORRESTER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DAUGHTER MADIGAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DAY UNFAITHFUL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DAZED PUNK</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DAZED PUNK</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DEEP CRUSADE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DESERT POSEIDON</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DESTINY SATURDAY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DESTINY SATURDAY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DESTINY SATURDAY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DESTINY SATURDAY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DOORS PRESIDENT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DOORS PRESIDENT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DORADO NOTTING</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DRAGONFLY STRANGERS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DRIFTER COMMANDMENTS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DRIFTER COMMANDMENTS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DRIFTER COMMANDMENTS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DRIVING POLISH</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DRIVING POLISH</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DROP WATERFRONT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DROP WATERFRONT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DROP WATERFRONT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DUDE BLINDNESS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DUDE BLINDNESS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DURHAM PANKY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DURHAM PANKY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EAGLES PANKY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EARLY HOME</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EASY GLADIATOR</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ELEPHANT TROJAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ELEPHANT TROJAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ELEPHANT TROJAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ELIZABETH SHANE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ENEMY ODDS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EVE RESURRECTION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EXPECATIONS NATURAL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FEVER EMPIRE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FIDDLER LOST</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FIDELITY DEVIL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FIRE WOLVES</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FLASH WARS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FLASH WARS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FLASH WARS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FLASH WARS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FLASH WARS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FOOL MOCKINGBIRD</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FREDDY STORM</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FRENCH HOLIDAY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FRENCH HOLIDAY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FRISCO FORREST</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FRONTIER CABIN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FRONTIER CABIN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FUGITIVE MAGUIRE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FUGITIVE MAGUIRE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GALAXY SWEETHEARTS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GAMES BOWFINGER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GLADIATOR WESTWARD</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GOODFELLAS SALUTE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GOODFELLAS SALUTE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GOODFELLAS SALUTE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GRINCH MASSAGE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GRINCH MASSAGE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GROUNDHOG UNCUT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GUMP DATE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GUYS FALCON</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GUYS FALCON</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HALL CASSIDY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HALL CASSIDY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HANGING DEEP</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HANOVER GALAXY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HANOVER GALAXY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HANOVER GALAXY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HAUNTED ANTITRUST</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HEAVENLY GUN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HEAVENLY GUN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HOLES BRANNIGAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HOLES BRANNIGAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HOME PITY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HOME PITY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HOTEL HAPPINESS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HUSTLER PARTY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">IGBY MAKER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">IMPOSSIBLE PREJUDICE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">INCH JET</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">INCH JET</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">INNOCENT USUAL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">INTOLERABLE INTENTIONS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">IRON MOON</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ITALIAN AFRICAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JERSEY SASSY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JERSEY SASSY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JERSEY SASSY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KING EVOLUTION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KING EVOLUTION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KING EVOLUTION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KISS GLORY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KISS GLORY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KISS GLORY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KISSING DOLLS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LADY STAGE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LAMBS CINCINATTI</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LAMBS CINCINATTI</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LAWLESS VISION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LAWLESS VISION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LEGALLY SECRETARY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LEGALLY SECRETARY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LEGALLY SECRETARY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LIAISONS SWEET</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LIES TREATMENT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LOLA AGENT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LOSER HUSTLER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LOSER HUSTLER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LOSER HUSTLER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MAIDEN HOME</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MATRIX SNOWMAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MISSION ZOOLANDER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MISSION ZOOLANDER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MISSION ZOOLANDER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MOD SECRETARY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MOD SECRETARY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MODEL FISH</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MODEL FISH</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MOONWALKER FOOL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MOONWALKER FOOL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MOONWALKER FOOL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MOVIE SHAKESPEARE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MOVIE SHAKESPEARE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OCTOBER SUBMARINE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OPEN AFRICAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OPEN AFRICAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OPEN AFRICAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OUTLAW HANKY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PANIC CLUB</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PATHS CONTROL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PEAK FOREVER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PELICAN COMFORTS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PERDITION FARGO</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PINOCCHIO SIMON</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PITTSBURGH HUNCHBACK</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PITTSBURGH HUNCHBACK</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PLATOON INSTINCT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PLUTO OLEANDER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">POSEIDON FOREVER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">POSEIDON FOREVER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">POSEIDON FOREVER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PREJUDICE OLEANDER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PREJUDICE OLEANDER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PREJUDICE OLEANDER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PRESIDENT BANG</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PUNK DIVORCE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RAGING AIRPLANE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RANGE MOONWALKER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RANGE MOONWALKER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">REDS POCUS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RIGHT CRANES</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RIGHT CRANES</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ROAD ROXANNE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ROAD ROXANNE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ROCKY WAR</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ROSES TREASURE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RULES HUMAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SABRINA MIDNIGHT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SATURDAY LAMBS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SATURDAY LAMBS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SCHOOL JACKET</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SCORPION APOLLO</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SCORPION APOLLO</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SCORPION APOLLO</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SEATTLE EXPECATIONS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SEATTLE EXPECATIONS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SENSE GREEK</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SENSE GREEK</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SEVEN SWARM</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SHAWSHANK BUBBLE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SHAWSHANK BUBBLE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SILVERADO GOLDFINGER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SILVERADO GOLDFINGER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SLEEPING SUSPECTS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SLEEPING SUSPECTS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SLEEPLESS MONSOON</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SLEEPLESS MONSOON</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SOLDIERS EVOLUTION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SOLDIERS EVOLUTION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SOLDIERS EVOLUTION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SOLDIERS EVOLUTION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPEED SUIT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPEED SUIT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPICE SORORITY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPICE SORORITY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPICE SORORITY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STAGECOACH ARMAGEDDON</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STAGECOACH ARMAGEDDON</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STEEL SANTA</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STING PERSONAL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STING PERSONAL</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STRANGER STRANGERS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STRANGER STRANGERS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STRANGER STRANGERS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STRANGER STRANGERS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STRANGER STRANGERS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STRANGERS GRAFFITI</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STRANGERS GRAFFITI</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STREETCAR INTENTIONS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STREETCAR INTENTIONS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SUBMARINE BED</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SUGAR WONKA</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SUNRISE LEAGUE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SUNRISE LEAGUE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SWEDEN SHINING</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SWEDEN SHINING</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TEEN APOLLO</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TELEGRAPH VOYAGE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TEMPLE ATTRACTION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TEQUILA PAST</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">THIEF PELICAN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">THIN SAGEBRUSH</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TIES HUNGER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TIES HUNGER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TITANIC BOONDOCK</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TITANS JERK</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TORQUE BOUND</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TRADING PINOCCHIO</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TRAFFIC HOBBIT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TRAIN BUNCH</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TRAIN BUNCH</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TRAP GUYS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TRAP GUYS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TRUMAN CRAZY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TYCOON GATHERING</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USUAL UNTOUCHABLES</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USUAL UNTOUCHABLES</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VELVET TERMINATOR</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VIRGIN DAISY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VIRGIN DAISY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VOLUME HOUSE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WANDA CHAMBER</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WAR NOTTING</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WAR NOTTING</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WATERFRONT DELIVERANCE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WATERFRONT DELIVERANCE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WATERFRONT DELIVERANCE</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WEREWOLF LOLA</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WEST LION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WEST LION</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WHALE BIKINI</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WHALE BIKINI</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WHISPERER GIANT</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WIFE TURN</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WIZARD COLDBLOODED</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WIZARD COLDBLOODED</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WIZARD COLDBLOODED</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WONDERLAND CHRISTMAS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WORKING MICROCOSMOS</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WYOMING STORM</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WYOMING STORM</Data></Cell>
+			<Cell><Data ss:Type="Number">4.99</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

@@ -1,0 +1,13 @@
+--- Quiero saber el número de películas por idioma. Aunque previamnete analizando los datos 
+ya me di cuenta que todas eran en Inglés pero a la hora de incluir más en el inventario estaría bien tener la
+consulta para más adelante:
+
+
+
+
+SELECT language.name, COUNT(film.film_id) as film_count
+FROM film
+JOIN language ON film.language_id = language.language_id
+GROUP BY language.name
+ORDER BY film_count DESC
+LIMIT 0, 1000;

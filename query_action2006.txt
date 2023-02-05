@@ -1,0 +1,8 @@
+--- esta consulta es para saber el numero de películas de la categoría acción se lanzaron en 2006
+
+SELECT COUNT(*)
+FROM film
+WHERE release_year = 2006
+AND category_id IN (SELECT category_id FROM category WHERE name = 'Action');
+
+count = 77
