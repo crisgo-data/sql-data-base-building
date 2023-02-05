@@ -1,4 +1,7 @@
-------Esta consulta selecciona el id de los actores y mediante COUNT, cuenta el número de películas que han participado 
+------Quiero saber el actor que más sale en las películas de categoría 'Comedy'.
+
+
+Esta consulta selecciona el id de los actores y mediante COUNT, cuenta el número de películas que han participado 
 en la categoría "Comedy". Se unen las tablas "actor" y "film" en base a la tabla "disco_duro" mediante JOIN.
  y luego se une la tabla "category" en base a la columna "category_id". también con JOIN
 La cláusula WHERE filtra las películas que son solo de la categoría "Comedy". 
