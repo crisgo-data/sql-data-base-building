@@ -44,9 +44,8 @@ MIS QUERYS
 
 
 actor_id,  first_name    last_name   film_count
-
-'37',      'VAL',        'BOLGER'       78
-'13',      'UMA',        'WOOD'         78
+37      VAL        BOLGER       78
+13      UMA        WOOD        78
 
 
 
@@ -59,23 +58,23 @@ count = 77
 
 3- Quiero saber la cantidad de peliculas por genero que tengo:  pongo limit 16 ya que son 16 categorías las que tengo.
 
-name	 film_count
-Sports	    79
-Action	    77
-Animation	75
-Drama	    74
-New	        73
-Documentary	72
-Horror	    64
-Foreign	    64
-Children	62
-Sci-Fi	    58
-Family	    57
-Classics	55
-Music	    54
-Travel	    52
-Comedy	    46
-Games	    38
+name film_count
+Sports79
+Action77
+Animation75
+Drama74
+New73
+Documentary72
+Horror64
+Foreign64
+Children62
+Sci-Fi58
+Family57
+Classics55
+Music54
+Travel52
+Comedy46
+Games38
 
 
 
@@ -83,20 +82,20 @@ Games	    38
 4- Quiero saber el actor que más sale en las películas de categoría 'Comedy'.
 
 actor_id   first_name  last_name    count
- '34',    'AUDREY',     'OLIVIER'    '8'
- '37',      'VAL',      'BOLGER'     '8'
+ 34    AUDREY     OLIVIER    8
+ 37      VAL      BOLGER     8
  
  
 
 
 5- Quiero saber las 5 películas de las cuales tengo más copias en mi inventario:
 
-title	             copies
-CONEHEADS SMOOCHY	  35
-ACADEMY DINOSAUR	  32
-CLASH FREDDY	      28
-CALENDAR GUNFIGHT	  28
-CUPBOARD SINNERS	  24
+title copies
+CONEHEADS SMOOCHY35
+ACADEMY DINOSAUR32
+CLASH FREDDY28
+CALENDAR GUNFIGHT28
+CUPBOARD SINNERS24
 
 
 
@@ -114,8 +113,8 @@ english   1000
 
 7- Quiero saber el Actor que sale en la película de categía 'Horror' que más rental_rate tiene:
 
-actor_id    first_name    last_name     title
-    1       'Penelope'    'Guinness'  'Rules Human' 
+actor_id first_name last_name title
+1       Penelope    Guinness  Rules Human 
     
     
     
@@ -123,11 +122,11 @@ actor_id    first_name    last_name     title
 8- Quiero obtener el mayor rental_rate y que me diga el nombre de las 5 primeras películas que tienen ese rental rate por orden alfabético:
 
  title                  rental_rate
-'ACE GOLDFINGER',         '4.99'
-'ALADDIN CALENDAR',       '4.99'
-'AMERICAN CIRCUS',        '4.99'
-'APACHE DIVINE',          '4.99'
-'ATTACKS HATE',           '4.99'
+ACE GOLDFINGER         4.99
+ALADDIN CALENDAR       4.99
+AMERICAN CIRCUS        4.99
+APACHE DIVINE          4.99
+ATTACKS HATE          '4.99'
 
 
 
